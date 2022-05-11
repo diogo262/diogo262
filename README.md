@@ -1,1 +1,1 @@
-![sword-of-the-stranger-nanashi](https://user-images.githubusercontent.com/105021023/167258017-d9e9ccc6-36a4-4a45-84c5-b50606e0e8f3.gif)
+<img align="right" width="250px" src="https://static.wikia.nocookie.net/devilmaycry/images/9/9c/Img_dmc5_vergil.png/revision/latest?cb=20210408201041&path-prefix=pt-br" />
