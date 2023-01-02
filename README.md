@@ -2,7 +2,6 @@
 Olá! 👋
 Meu nome é Diogo Gabardo. Sou estudante de Análise e Desenvolvimento de Sistemas.
 </div>
-##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="dio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
