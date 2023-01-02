@@ -1,7 +1,7 @@
-
+<div style="display: inline_block" align="center"><br>
 Olá! 👋
 Meu nome é Diogo Gabardo. Sou estudante de Análise e Desenvolvimento de Sistemas.
-
+</div>
 ##
 
 <div style="display: inline_block" align="center"><br>
