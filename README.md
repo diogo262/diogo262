@@ -1,6 +1,6 @@
 
 Olá! 👋
-Meu nome é Diogo Gabardo.
+Meu nome é Diogo Gabardo. Sou um estudante de Análise e Desenvolvimento de Sistemas.
 
 ##
 
