@@ -1,4 +1,3 @@
-![image](https://github.com/diogo262/diogo262/assets/105021023/d210558f-19d0-4e0a-991b-c04d3aea6401)<div style="display: inline_block" align="center">
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
     Atualmente aprendendo MySQL e Java Spring Boot 😁✌
