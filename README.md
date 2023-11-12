@@ -23,5 +23,5 @@ Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de
 </div>
 
 <div style="display: inline_block" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo262&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo262&layout=compact&langs_count=6&theme=merko"/>
 </div>
