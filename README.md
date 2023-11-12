@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center"> 
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
-    Atualmente aprendendo desenvolvimento Android com Java e Java Spring Boot 😁✌
+    Atualmente aprendendo desenvolvimento Android com Java e Java Spring Boot utilizando a arquitetura MVC 😁✌
     <br><br>
 </div>
 
