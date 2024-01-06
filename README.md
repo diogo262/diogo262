@@ -1,8 +1,8 @@
 <div style="display: inline_block" align="center"> 
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
-    Atualmente aprendendo desenvolvimento Android com Java e Java Spring Boot utilizando a arquitetura MVC 😁✌<br>
-    Curto bastante análise de dados também e pretendo ser Full Stack. 👍👍👍👍
+    Atualmente aprendendo desenvolvimento mobile e Análise de Dados 😁✌<br>
+    Gosto bastante de desenvolver o back-end. 👍👍👍👍
     <br><br>
 </div>
 
