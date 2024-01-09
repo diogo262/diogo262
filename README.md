@@ -2,7 +2,6 @@
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
     Atualmente aprendendo desenvolvimento mobile e Análise de Dados<br>
-    Gosto bastante de desenvolver o back-end.
     <br><br>
 </div>
 
