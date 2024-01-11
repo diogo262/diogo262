@@ -2,7 +2,7 @@
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
     Atualmente aprendendo desenvolvimento mobile e Análise de Dados<br>
-    <br><br>
+    <br>
 </div>
 
 <div style="display: inline_block" align="center"> 
