@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center"> 
 Olá! 👋
 Meu nome é Diogo Gabardo Soares. Sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas.<br>
-    Atualmente aprendendo desenvolvimento mobile e Spring Boot <br>
+    Atualmente aprendendo desenvolvimento mobile e Javascript (node.js) <br>
     <br>
 </div>
 
