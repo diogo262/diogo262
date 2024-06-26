@@ -1,6 +1,6 @@
 <div style="display: inline_block" align="center"> 
 Hello! 👋
-My name is Diogo Gabardo Soares. I am a student of the course in Systems Analysis and Development.<br>
+My name is Diogo Gabardo Soares. I am a student of the course Systems Analysis and Development.<br>
     I am currently learning python, mobile development and JavaScript (Vue.js). <br>
     <br>
 </div>
