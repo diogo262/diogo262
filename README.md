@@ -1,8 +1,11 @@
 <div style="display: inline_block" align="center"> 
 Hello! 👋
 My name is Diogo Gabardo Soares. I am a student of the course Systems Analysis and Development.<br>
-    I am currently learning python, mobile development and JavaScript (Vue.js). <br>
+    I am currently learning python, mobile development and JavaScript (Vue.js). <br> <br>
+    Most of my projects are private. 😉
     <br>
+    <br>
+    
 </div>
 
 <div style="display: inline_block" align="center"> 
