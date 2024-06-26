@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center"> 
-Olá! 👋
-Meu nome é Diogo Gabardo Soares. Sou estudante do curso tecnólogo de Análise e Desenvolvimento de Sistemas.<br>
-    Atualmente aprendendo desenvolvimento mobile e Javascript (node.js) <br>
+Hello! 👋
+My name is Diogo Gabardo Soares. I am a student of the course in Systems Analysis and Development.<br>
+    I am currently learning python, mobile development and JavaScript (Vue.js). <br>
     <br>
 </div>
 
